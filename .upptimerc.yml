@@ -13,6 +13,10 @@ sites:
     url: https://www.facebook.com/
   - name: V Live
     url: https://www.vlive.tv/home/chart?sub=VIDEO&period=HOUR_24&country=ALL
+    
+    # 無效網址
+  - name: google
+    url: https://google.com.abc/123
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
